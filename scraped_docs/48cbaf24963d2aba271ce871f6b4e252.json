@@ -1,0 +1,44 @@
+{
+  "id": "48cbaf24963d2aba271ce871f6b4e252",
+  "source": {
+    "url": "https://www.linkedin.com/blog/engineering/graph-systems",
+    "domain": "linkedin.com",
+    "site_type": "linkedin",
+    "scraped_at": "2025-06-05T13:50:29.513575Z"
+  },
+  "content": {
+    "title": "Graph Systems blog posts",
+    "text": "Graph Systems blog posts Economic Graph From the Economic Graph to Economic Insights: Building the Inf... Jun 2, 2023 Graph Systems How LIquid Connects Everything So Our Members Can Do Anything May 2, 2023 Culture Career stories: Spotlighting Technical Program Management Mar 2, 2023 Knowledge Completing a member knowledge graph with Graph Neural Networks Jaewon Yang Dec 1, 2021 Graph Systems LIquid: The soul of a new graph database, Part 2 Scott Meyer Sep 16, 2020 Graph Systems LIquid: The soul of a new graph database, Part 1 Scott Meyer Jul 23, 2020 Graph Systems InGraphs: Monitoring and Unexpected Artwork Cliff Snyder Aug 3, 2017 Knowledge Building The LinkedIn Knowledge Graph Qi He Oct 6, 2016 Getting to Know Jim Zhang and Alice Zhou Karan Parikh Apr 29, 2016 Getting To Know Karan Parikh Josh Clemm Apr 22, 2015 Distributed Systems Real-time distributed tracing for website performance and effi... Feb 3, 2015 Graph Systems Using set cover algorithm to optimize query latency for a larg... Rui Wang Aug 23, 2013",
+    "word_count": 170,
+    "language": "en",
+    "images": []
+  },
+  "metadata": {
+    "author": "",
+    "publish_date": "",
+    "tags": [
+      "graph",
+      "systems",
+      "knowledge",
+      "economic",
+      "liquid",
+      "blog",
+      "posts",
+      "building",
+      "soul",
+      "new"
+    ],
+    "content_type": "article"
+  },
+  "processing": {
+    "extraction_method": "site_specific",
+    "confidence_score": 0.7,
+    "chunks": [
+      {
+        "text": "Graph Systems blog posts Economic Graph From the Economic Graph to Economic Insights: Building the Inf... Jun 2, 2023 Graph Systems How LIquid Connects Everything So Our Members Can Do Anything May 2, 2023 Culture Career stories: Spotlighting Technical Program Management Mar 2, 2023 Knowledge Completing a member knowledge graph with Graph Neural Networks Jaewon Yang Dec 1, 2021 Graph Systems LIquid: The soul of a new graph database, Part 2 Scott Meyer Sep 16, 2020 Graph Systems LIquid: The soul of a new graph database, Part 1 Scott Meyer Jul 23, 2020 Graph Systems InGraphs: Monitoring and Unexpected Artwork Cliff Snyder Aug 3, 2017 Knowledge Building The LinkedIn Knowledge Graph Qi He Oct 6, 2016 Getting to Know Jim Zhang and Alice Zhou Karan Parikh Apr 29, 2016 Getting To Know Karan Parikh Josh Clemm Apr 22, 2015 Distributed Systems Real-time distributed tracing for website performance and effi... Feb 3, 2015 Graph Systems Using set cover algorithm to optimize query latency for a larg... Rui Wang Aug 23, 2013",
+        "position": 1,
+        "char_count": 1025
+      }
+    ]
+  }
+}

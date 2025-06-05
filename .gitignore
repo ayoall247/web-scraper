@@ -46,7 +46,6 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-*.json
 !example_urls.txt
 logs/
 output/

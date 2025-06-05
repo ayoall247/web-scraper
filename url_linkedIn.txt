@@ -1,0 +1,18 @@
+# Example URLs for testing the web scraper
+# LinkedIn blog posts
+https://www.linkedin.com/blog/engineering/trust-and-safety/viral-spam-content-detection-at-linkedin
+
+
+https://www.linkedin.com/blog/engineering/ai/automated-genai-driven-search-quality-evaluation
+https://www.linkedin.com/blog/engineering/graph-systems/how-liquid-connects-everything-so-our-members-can-do-anything
+https://www.linkedin.com/blog/engineering/generative-ai/how-linkedin-built-the-engineering-infrastructure-to-ignite-prof
+https://www.linkedin.com/blog/engineering/member-customer-experience/helping-members-discover-communities-around-interests
+https://www.linkedin.com/blog/engineering/recommendations/building-a-large-scale-recommendation-system-people-you-may-know
+https://www.linkedin.com/blog/engineering/recommendations/candidate-generation-in-a-large-scale-graph-recommendation-system-people-you-may-know
+https://www.linkedhelper.com/blog/linkedin-algorithm/
+https://www.linkedin.com/blog/engineering/graph-systems
+https://www.linkedin.com/help/linkedin/answer/a1339724 
+
+
+
+
