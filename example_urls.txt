@@ -1,0 +1,12 @@
+# Example URLs for testing the web scraper
+# LinkedIn blog posts
+https://www.linkedin.com/blog/engineering/trust-and-safety/viral-spam-content-detection-at-linkedin
+
+# Wikipedia articles
+https://en.wikipedia.org/wiki/Machine_learning
+
+# Reddit posts (note: may require specific formatting)
+# https://www.reddit.com/r/MachineLearning/comments/example/
+
+# Research papers
+# https://arxiv.org/abs/2301.00001
